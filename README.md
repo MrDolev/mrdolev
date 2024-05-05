@@ -52,7 +52,7 @@ Computer Science alumnus at [University of Catania](https://web.dmi.unict.it/en)
 - 👀 Getting involve: `.go`, `.java`, `.py`
 - 🤝 I’m looking to collaborate on **Open Source** projects related to **Cyber security**
 - 🌐 I collaborated on **Open Source** project [Bandit](https://github.com/PyCQA/bandit)
-- 💬 Mostly active active within the **Cyber security**, **Backend technologies**, **Golang**, **Java** and **Python** communities and related frameworks
+- 💬 Mostly active active within the communities and frameworks related to **Cyber security**, **backend technologies**, **Golang**, **Java**, and **Python**.
 
 ## ↪ Reach Out
 
