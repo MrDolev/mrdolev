@@ -42,17 +42,17 @@
 
 [<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/11163705918/playlists)
 
-Computer Science alumnus at [University of Catania](https://web.dmi.unict.it/en). I'm a backend engineer with a strong focus and passion for  **Cyber security**, particularly in the field of **Zero Trust**. I'm continuously enthusiastic about adopting new technologies, including **LLM**, **Prompt Engineering** and **DLT**.
+Computer Science alumnus at [University of Catania](https://www.unict.it/en). I'm a backend engineer with a strong focus and passion for  **Cyber security**, particularly in the field of **Zero trust**. I'm continuously enthusiastic about adopting new technologies, including **LLM**, **Prompt engineering** and **DLT(Distributed Ledger Technologies)**.
 
 - 🎓 M.Sc. in **Computer Science - Network systems and security** at **dmi unict**
 - ⚙️ Currently **Backend Engineer** with a focus and passion for the field of  **Cyber security**
-- 🍂 Previously worked as researcher on **Cyber Security** field and **DLT(Distributed Ledger Technologies)**
+- 🍂 Previously worked as researcher on **Cyber security** field and **DLT(Distributed Ledger Technologies)**
 - 🚀 I’m learning: [RESTful Web Services, Java, Spring Boot, Spring MVC and JPA
 ](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql), [REST APIs with Flask and Python in 2024](https://www.udemy.com/course/rest-api-flask-and-python), [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide), [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/course/go-programming-language/)
 - 👀 Getting involve: `.go`, `.java`, `.py`
 - 🤝 I’m looking to collaborate on **Open Source** projects related to **Cyber security**
 - 🌐 I collaborated on **Open Source** project [Bandit](https://github.com/PyCQA/bandit)
-- 💬 Mostly active active within the communities and frameworks related to **Cyber security**, **backend technologies**, **Golang**, **Java**, and **Python**.
+- 💬 Mostly active active within the communities and frameworks related to **Cyber security**, **Backend technologies**, **Golang**, **Java**, and **Python**.
 
 ## ↪ Reach Out
 
