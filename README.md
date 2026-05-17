@@ -3,8 +3,8 @@
 ## Stack and technologies
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -16,6 +16,7 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -42,26 +43,34 @@
 
 [<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/11163705918/playlists)
 
-Computer Science alumnus at [University of Catania](https://www.unict.it/en). I'm a backend engineer with a strong focus and passion for  **Cyber security**, particularly in the field of **Zero trust**. I'm continuously enthusiastic about adopting new technologies, including **LLM**, **Prompt engineering** and **DLT(Distributed Ledger Technologies)**.
+I am a **Backend Software Engineer** focused on building scalable APIs, microservices, cloud-native, and SaaS solutions. Driven by a passion for **Cybersecurity**, **Zero Trust** and **SSDLC**, I am dedicated to driving innovation by exploring and applying new technologies such as **LLMs, Prompt Engineering, Performance Engineering and DLT**.
 
-- 🎓 M.Sc. in **Computer Science - Network systems and security** at **dmi unict**
-- ⚙️ Currently **Backend Engineer** with a focus and passion for the field of  **Cyber security**
-- 🍂 Previously worked as researcher on **Cyber security** field and **DLT(Distributed Ledger Technologies)**
-- 🚀 I’m learning: [RESTful Web Services, Java, Spring Boot, Spring MVC and JPA
-](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql), [REST APIs with Flask and Python in 2024](https://www.udemy.com/course/rest-api-flask-and-python), [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide), [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/course/go-programming-language/)
-- 👀 Getting involve: `.go`, `.java`, `.py`
-- 🤝 I’m looking to collaborate on **Open Source** projects related to **Cyber security**
-- 🌐 I collaborated on **Open Source** project [Bandit](https://github.com/PyCQA/bandit)
-- 💬 Mostly active active within the communities and frameworks related to **Cyber security**, **Backend technologies**, **Golang**, **Java**, and **Python**.
+Currently, I am deepening my expertise in **Go (Golang)** as my core focus, recognizing its potential for building high-performance applications across the full backend lifecycle, while also exploring **Rust** for its performance capabilities — with a view to enhancing my understanding of how performance can impact backend applications (from a coding perspective). Alongside this, I integrate **SAST** practices at the programming language level, while also working to expand my knowledge of design culture, **CI/CD**, **deployment** in distributed and cloud environments, and **delivery** practices.
+
+- 🎓 M.Sc. in **Computer Science - Network systems and security** at [University of Catania](https://www.unict.it/en) (**dmi unict**)
+- 🍂 Previously worked as a researcher in **Cyber security** and **DLT (Distributed Ledger Technologies)**
+- 🚀 I’m learning: [CKAD - Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/), [Mastering Go](https://www.udemy.com/course/go-the-complete-developers-guide), [RESTful Web Services](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql), and [Flask & Python](https://www.udemy.com/course/rest-api-flask-and-python)
+- ☁️ Exploring modern stack and deployment technologies on cloud environments.
+- 🛡️ Focus on **Static Application Security Testing (SAST)** to identify vulnerabilities early in the SDLC.
+- ☸️ Interested in **Container Orchestration** for automating deployment, scaling, and management of applications.
+- 📊 Exploring **Performance Benchmarking** (via [Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) and [TechEmpower](https://www.techempower.com/benchmarks/)) and following [DB-Engines](https://db-engines.com) for database trends.
+- 🌐 Collaborator on Open Source projects like [Bandit](https://github.com/PyCQA/bandit)
+- 🤝 Looking to collaborate on **Open Source** projects related to **Cyber security**
+- 💬 Active in communities related to **Golang**, **Java**, **Python**, and **Cyber security**.
+
+## 📚 Reading List & Resources
+
+### Books
+- 📖 *Designing Data-Intensive Applications* by Martin Kleppmann
+- 📖 *Secure Programming with Static Analysis* by Brian Chess and Jacob West
+### Articles & Guides
+- 📜 [Secure Programming HOWTO](https://dwheeler.com/secure-programs/) by David A. Wheeler
+- 📜 [Goto Fail, Heartbleed, and Unit Testing Culture](https://martinfowler.com/articles/testing-culture.html) by Mike Bland, published on MartinFowler.com
+- 📜 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) by Malte Ubl
 
 ## ↪ Reach Out
 
 [<img src = "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/15129869/mrdolev)
-[<img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">](https://github.com/MrDolev)
-
-## 📊 GitHub stats
-
-![Aureliano Consoli's Github Stats](https://github-readme-stats.vercel.app/api?username=MrDolev&show_icons=true&hide_border=true)
 
 <!--
 **MrDolev/mrdolev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
