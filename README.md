@@ -43,12 +43,12 @@
 
 [<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/user/11163705918/playlists)
 
-I am a **Backend Software Engineer** focused on building scalable APIs, microservices, cloud-native, and SaaS solutions. Driven by a passion for **Cybersecurity**, **Zero Trust** and **SSDLC**, I am dedicated to driving innovation by exploring and applying new technologies such as **LLMs, Prompt Engineering, Performance Engineering and DLT**.
+I am a **Backend Software Engineer** focused on building scalable APIs, microservices, cloud-native, and SaaS solutions. Driven by a commitment to exploring **Cybersecurity**, **Zero Trust** and **SSDLC**, I am dedicated to get the flow innovation by applying new technologies such as **LLMs, Prompt Engineering and Performance Engineering**.
 
-Currently, I am deepening my expertise in **Go (Golang)** as my core focus, recognizing its potential for building high-performance applications across the full backend lifecycle, while also exploring **Rust** for its performance capabilities — with a view to enhancing my understanding of how performance can impact backend applications (from a coding perspective). Alongside this, I integrate **SAST** practices at the programming language level, while also working to expand my knowledge of design culture, **CI/CD**, **deployment** in distributed and cloud environments, and **delivery** practices.
+Currently, I am deepening my expertise in **Go (Golang)** as my core focus, recognizing its potential for building high-performance applications across the full backend lifecycle. Alongside this, I integrate **SAST** practices at the programming language level, while also working to expand my knowledge of design culture, **CI/CD**, **deployment** in distributed and cloud environments, and **delivery** practices.
 
 - 🎓 M.Sc. in **Computer Science - Network systems and security** at [University of Catania](https://www.unict.it/en) (**dmi unict**)
-- 🍂 Previously worked as a researcher in **Cyber security** and **DLT (Distributed Ledger Technologies)**
+- 🍂 Previously worked as a researcher in **Cyber security**
 - 🚀 I’m learning: [CKAD - Kubernetes Application Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/), [Mastering Go](https://www.udemy.com/course/go-the-complete-developers-guide), [RESTful Web Services](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql), and [Flask & Python](https://www.udemy.com/course/rest-api-flask-and-python)
 - ☁️ Exploring modern stack and deployment technologies on cloud environments.
 - 🛡️ Focus on **Static Application Security Testing (SAST)** to identify vulnerabilities early in the SDLC.
